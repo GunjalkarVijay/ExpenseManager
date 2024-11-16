@@ -33,4 +33,3 @@ This project uses Hibernate and Spring Boot to implement various entity relation
 ## Contact
 
 For more information, reach out at **vijaygunjalkara54@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/vijay-gunjalkar-6870a11a9/).
-# ExpenseManager
